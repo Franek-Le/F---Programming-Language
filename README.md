@@ -1,5 +1,5 @@
 # F-- Programming Language
-## F-- is basically Tylerlaceby's Guide to interpreters tutorial remade with C# but with additional features like a builtin graphics library, OS integration, reading and writing to files.
+## F-- is basically Tylerlaceby's Guide to interpreters tutorial remade with C# and with additional features like a builtin graphics library, OS integration, reading and writing to files.
 
 ## F-- Syntax
 The syntax is very simple
