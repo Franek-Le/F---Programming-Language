@@ -29,8 +29,8 @@ Builtin Functions
 You can print text to the console using ```print("");```
 
 ### Creating Variables
-You can create a constant variable using ```const VariableName = 50;```
-You can create a mutable variable using ```var VariableName = "You can also create strings!";```
+You can create a constant variable using ```const VariableName = 50;```\n
+You can create a mutable variable using ```var VariableName = "Hello, world!";```
 
 ### Adding Comments
 Comments can be created using '//' ```// This is a comment in F--```
