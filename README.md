@@ -1,2 +1,54 @@
-# F---Programming-Language
-F--
+# F-- Programming Language
+## F-- is basically Tylerlaceby's Guide to interpreters tutorial remade with C# but with additional features like a builtin graphics library, OS integration, reading and writing to files.
+
+## F-- Syntax
+The syntax is very simple
+
+### Builtin keywords
+There are 15 keywords in F--:
+
+Variable Declaration
+```var const```
+
+Booleans
+```false true```
+
+Classes, Functions and Structs
+```new class self function struct```
+
+Loops
+```for while```
+
+Comparison
+```if else elseif and or```
+
+### Using builtin functions
+You can print text to the console using ```print("");```
+
+### Creating Variables
+You can create a constant variable using ```const VariableName = 50;```
+You can create a mutable variable using ```var VariableName = "You can also create strings!";```
+
+### Adding Comments
+Comments can be created using '//' ```// This is a comment in F--```
+
+### Class and Function declaration
+You can create a class using ```class SomeClassName {}```
+You can initialize class by using ```SomeClassName myClass = new SomeClassName();```
+You can create functions using  ```function SomeFunctionName(param1, param2) {}```
+You can add methods to classes using:
+```
+Class SomeClassName {
+  function Initializer() { // This is the function that gets executed when the class object gets created it is like '__init__()' in Python or 'constructor() {}' in Javascript.
+    print("This will get printed when the class gets initialized!");
+  }
+
+  function SomeClassName.Add(num1, num2) {
+    return num1 + num2;
+  }
+}
+```
+
+## F-- Graphics library
+The graphics library can be imported in the language using: ```import FMM.Graphics```
+It has some basic features like drawing shapes, text and images as sprites
