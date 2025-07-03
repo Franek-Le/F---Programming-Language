@@ -5,7 +5,7 @@
 The syntax is very simple
 
 ### Builtin keywords
-There are 15 keywords in F--:
+There are 17 keywords in F--:
 
 Variable Declaration
 ```var const```
@@ -21,6 +21,9 @@ Loops
 
 Comparison
 ```if else elseif and or```
+
+Builtin Functions
+```print```
 
 ### Using builtin functions
 You can print text to the console using ```print("");```
