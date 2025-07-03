@@ -55,7 +55,3 @@ Class SomeClassName {
   }
 }
 ```
-
-## F-- Graphics library
-The graphics library can be imported in the language using: ```import FMM.Graphics```
-It has some basic features like drawing shapes, text and images as sprites
