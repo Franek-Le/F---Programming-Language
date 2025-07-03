@@ -38,8 +38,11 @@ Comments can be created using '//' ```// This is a comment in F--```
 
 ### Class and Function declaration
 You can create a class using ```class SomeClassName {}```
-You can initialize class by using ```SomeClassName myClass = new SomeClassName();```
+
+You can initialize the class by using ```SomeClassName myClass = new SomeClassName();```
+
 You can create functions using  ```function SomeFunctionName(param1, param2) {}```
+
 You can add methods to classes using:
 ```
 Class SomeClassName {
