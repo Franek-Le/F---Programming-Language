@@ -1,6 +1,8 @@
 # F-- Programming Language
 ## F-- is basically Tylerlaceby's Guide to interpreters tutorial remade with C# and with additional features like a builtin graphics library, OS integration, reading and writing to files.
 
+## Keep in mind the language is not yet finished so there are many features lacking
+
 ## F-- Syntax
 The syntax is very simple
 
@@ -55,3 +57,4 @@ Class SomeClassName {
   }
 }
 ```
+<sub>Franek_Le 2025</sub>
