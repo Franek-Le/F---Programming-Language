@@ -26,6 +26,8 @@ Comparison
 
 Builtin Functions
 ```print```
+Importing Files
+```import```
 
 ### Using builtin functions
 You can print text to the console using ```print("");```
