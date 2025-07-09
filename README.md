@@ -1,7 +1,7 @@
 # F-- Programming Language
 ## F-- is basically Tylerlaceby's Guide to interpreters tutorial remade with C# and with additional features like a builtin graphics library, OS integration, reading and writing to files.
 
-## Keep in mind the language is not yet finished so there are many (most) features lacking and it is not going to be coded well because it's written by a 13yo. (me) and I don't know C# well.
+## Keep in mind the language is not yet finished so there are many (most) features lacking and it is not going to be coded well because it's written by a 13yo. (me) to be a project for fun and I don't know C# well.
 
 ## F-- Syntax
 The syntax is very simple
